@@ -1,1 +1,1 @@
-https://letsanalyze.org/
+www.letsanalyze.org
